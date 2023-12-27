@@ -1,0 +1,148 @@
+/* First box */
+.source-1 {
+    background-color: #1DE592;
+    width: 430px;
+    border-radius: 12px;
+    margin: 30px auto;
+    padding: 120px 60px;
+    font-family: sans-serif;
+}
+.source-1-heading {
+    font-size: 40px;
+}
+.source-1-btn {
+    background-color: white;
+    border-radius: 40px;
+    padding: 15px 35px;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 20px 0px 0px 0px;
+    border: none;
+}
+
+/*Second box*/
+.source-2 {
+    width: 550px;
+    font-family: sans-serif;
+    margin: 30px auto;
+}
+.source-2-content {
+    border: 1px solid gray;
+    border-radius: 12px 12px 0px 0px;
+    padding: 0px 30px 30px 30px;
+}
+.source-2-heading {
+    font-size: 30px;
+}
+.source-2-text {
+    font-size: 20px;
+    color: rgb(82, 75, 75);
+}
+.source-2-img {
+    width: 20%;
+    clip-path: circle();
+    margin: 50px;   
+}
+.source-2-footer{
+    border: 1px solid gray;
+    border-top: none;
+    border-radius: 0px 0px 12px 12px;
+    padding: 30px;
+}
+.source-2-anchor {
+    font-size: 20px;
+    text-decoration: none;
+    color: #2B7BEA;
+    font-weight: bold;
+}
+
+/* Third box */
+.source-3{
+    width: 550px;
+    font-family: sans-serif;
+    margin: 30px auto;
+    border-radius: 12px;
+    border: 1px solid gray;
+}
+.source-3-img {
+    width: inherit;
+    height: 300px;
+    border-radius: 12px 12px 0px 0px;
+}
+.source-3-content {
+    padding: 20px;
+}
+.source-3-icon {
+    font-size: 20px;
+    margin-right: 10px;
+    color: gray;
+}
+.source-3-text-1 {
+    color: rgb(82, 75, 75);
+    font-size: 25px;
+}
+.source-3-text-2 {
+    font-family: sans-serif;
+    font-size: 35px;
+    margin: 10px 0px;
+}
+.source-3-text-3 {
+    font-family: sans-serif;
+    color: rgb(82, 75, 75);
+    font-size: 25px;
+}
+.source-3-btn {
+    background-color: white;
+    border-radius: 12px;
+    padding: 15px 45px;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 20px 0px 0px 0px;
+    border: 1px solid lightgray;
+    color: #2B7BEA;
+}
+
+/*Fourth box*/
+.source-4{
+    width: 510px;
+    font-family: sans-serif;
+    margin: 30px auto;
+    border-radius: 12px;
+    border: 1px solid gray;
+    text-align: center;
+    padding: 20px;
+}
+.source-4-img {
+    border-radius: 12px;
+}
+.source-4-welcome-text {
+    font-weight: bold;
+}
+.source-4-input {
+    border-radius: 8px;
+    width: 50%;
+    padding: 10px 20px;
+    border: 1px solid lightgray;
+}
+.source-4-btn {
+    background-color: black;
+    color: white;
+    border-radius: 40px;
+    padding: 15px 35px;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 20px 0px;
+    border: none;
+}
+.source-4-text-1 {
+    color: rgb(82, 75, 75);
+    font-size: 12px;
+}
+.source-4-text-2 {
+    font-size: 16px;
+}
+.source-4-text-3 {
+    margin: 50px 120px;
+    color: rgb(82, 75, 75);
+    font-size: 12px;
+}
